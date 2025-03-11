@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace EFCoreLesson1.Data.Models;
 
 public class Sale
@@ -9,6 +11,8 @@ public class Sale
     public Customer Customer { get; set; }
     public int EmployeeId { get; set; }
     public Employee Employee { get; set; }
-    // public DateTime SaleDate { get; set; }
+    public DateTime SaleDate { get; set; }
+    
+    [Range(0, 1000000)]
     public decimal Price { get; set; }
 }

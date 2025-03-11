@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nIs6lO3DcDw=",
+  "dgSpecHash": "CAyks8acJag=",
   "success": true,
-  "projectFilePath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/EFCoreLesson2.csproj",
+  "projectFilePath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/EFCoreLesson3.csproj",
   "expectedPackageFiles": [
     "/home/emiloff/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/emiloff/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

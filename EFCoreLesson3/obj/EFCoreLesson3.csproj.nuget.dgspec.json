@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/EFCoreLesson2.csproj": {}
+    "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/EFCoreLesson3.csproj": {}
   },
   "projects": {
-    "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/EFCoreLesson2.csproj": {
+    "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/EFCoreLesson3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/EFCoreLesson2.csproj",
-        "projectName": "EFCoreLesson2",
-        "projectPath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/EFCoreLesson2.csproj",
+        "projectUniqueName": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/EFCoreLesson3.csproj",
+        "projectName": "EFCoreLesson3",
+        "projectPath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/EFCoreLesson3.csproj",
         "packagesPath": "/home/emiloff/.nuget/packages/",
-        "outputPath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson2/obj/",
+        "outputPath": "/home/emiloff/RiderProjects/EFProjects/EFCoreLesson3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emiloff/.nuget/NuGet/NuGet.Config"
